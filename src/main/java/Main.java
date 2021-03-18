@@ -29,57 +29,5 @@ public class Main {
             }
         }
 
-//        for(int i=0; i<competitors.length; i++) {
-//            for (int j = 0; j < barriers.length; j++) {
-//
-//
-//
-//            }
-//        }
-
-
-        // + создать массив из robot1, human1 и cat1
-        // + создать массив из wall1 и track1
-        // класс, реализующий интерфейс Action, принимает препятствие (Wall вызывает метод jump)
-        // проверка, может ли участник преодолеть препятствие
-        //
-
-/*      Robot robot1 = new Robot();
-        Robot robot2 = new Robot();
-        Robot robot3 = new Robot();
-        Human human1 = new Human();
-        Human human2 = new Human();
-        Human human3 = new Human();
-        Cat cat1 = new Cat();
-        Cat cat2 = new Cat();
-        Cat cat3 = new Cat();
-
-        ArrayList<Track> runners = new ArrayList<>();
-        runners.add(robot1);
-        runners.add(robot2);
-        runners.add(human1);
-        runners.add(human2);
-        runners.add(cat1);
-        runners.add(cat2);
-
-        ArrayList<Wall> jumpers = new ArrayList<>();
-        jumpers.add(robot2);
-        jumpers.add(robot3);
-        jumpers.add(human2);
-        jumpers.add(human3);
-        jumpers.add(cat2);
-        jumpers.add(cat3);
-
-        for (Track allRunners : runners){
-            allRunners.run();
-
-        }
-
-        for (Wall allJumpers : jumpers){
-            allJumpers.jump();
-        }
-
-        */
-
     }
 }

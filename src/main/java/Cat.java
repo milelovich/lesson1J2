@@ -16,5 +16,4 @@ public class Cat implements Action {
     public void jump(int height){
         System.out.println("Cat is jumping");
     }
-
 }
