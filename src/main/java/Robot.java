@@ -17,5 +17,4 @@ int height;
     public void jump(int height){
         System.out.println("Robot is jumping");
     }
-
 }

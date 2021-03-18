@@ -7,9 +7,6 @@ public class Track implements Barriers {
 
     @Override
     public void doIt() {
-
-
         // должен вызывать у участника свой метод run -?????? не знаю, как реализовать
-
     }
 }

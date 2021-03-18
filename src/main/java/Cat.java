@@ -8,7 +8,6 @@ public class Cat implements Action {
         this.height = height;
     }
 
-
     public void run(int distance){
         System.out.println("Cat is running");
     }

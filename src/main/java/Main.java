@@ -25,7 +25,7 @@ public class Main {
         for(Object Competitors : competitors) {
             for(Object Barriers : barriers) {
 
-
+                // - тут по идее должен вызываться метод doIt, но не могу понять, как его вызвать
             }
         }
 
