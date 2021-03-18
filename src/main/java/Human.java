@@ -8,9 +8,6 @@ public class Human implements Action {
         this.height = height;
     }
 
-
-
-
     public void run(int distance){
         System.out.println("Human is running");
     }

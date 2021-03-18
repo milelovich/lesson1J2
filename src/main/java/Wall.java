@@ -7,8 +7,6 @@ public class Wall implements Barriers {
 
     @Override
     public void doIt() {
-
         // должен вызывать у участника свой метод jump -?????? не знаю, как реализовать
-
     }
 }
