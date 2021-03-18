@@ -12,7 +12,6 @@ public class Cat implements Action {
     public void run(int distance){
         System.out.println("Cat is running");
     }
-
     public void jump(int height){
         System.out.println("Cat is jumping");
     }
